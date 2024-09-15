@@ -1,4 +1,4 @@
-#Power BI Report on Product Sales
+#Power BI Report on Product Sales. 
 This Power BI report provides an insightful overview of product sales, highlighting key metrics to drive business decisions. Key features include:
 
 Sales Metrics: Track key performance indicators (KPIs) such as total sales, average order value, and sales growth over time.
